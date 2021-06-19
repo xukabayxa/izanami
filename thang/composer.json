@@ -1,0 +1,15 @@
+{
+    "name": "taxibonbon/izanami",
+    "authors": [
+        {
+            "name": "taxibonbon",
+            "email": "thangnguyennvt1410@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Thang\\": "src/"
+        }
+    }
+}
