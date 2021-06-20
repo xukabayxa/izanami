@@ -1,5 +1,8 @@
 {
     "name": "taxibonbon/izanami",
+    "description": "Library XY",
+    "type": "library",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "taxibonbon",
